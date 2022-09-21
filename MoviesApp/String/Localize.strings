@@ -1,0 +1,15 @@
+/* 
+  Localize.strings
+  MoviesApp
+
+  Created by Miguel Robledo on 19/09/22.
+  Copyright © 2022 Personal. All rights reserved.
+*/
+
+msgErrorUserLogin = "Username and password are required";
+Continue = "Continue";
+Verify = "Verify";
+msgWhatDoYouWantToDo = "What do you want to do";
+lblViewProfile = "View profile";
+lblLogOut = "Log out";
+Cancel = "Cancel";
